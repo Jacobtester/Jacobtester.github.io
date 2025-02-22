@@ -1,0 +1,11 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #5157c8;
+    margin: 50px;
+}
+
+h1 {
+    color: #000000;
+}
