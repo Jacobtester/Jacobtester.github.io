@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+/* Add styles for the navigation bar */
+.navbar {
+  background-color: #282c34;
+  padding: 10px;
+  display: flex;
+  justify-content: left;
+  gap: 10px;
+}
+
+/* Style the navigation buttons */
+.nav-button {
+  text-decoration: none;
+  color: white;
+  background-color: #61dafb;
+  padding: 8px 15px;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.nav-button:hover {
+  background-color: #4fa3d1;
+}
